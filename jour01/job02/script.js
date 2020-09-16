@@ -1,0 +1,1 @@
+window.alert("Hello Javascript!"); // OUVRIR UNE POP-UP WINDOWS
