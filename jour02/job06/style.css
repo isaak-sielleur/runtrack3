@@ -1,0 +1,29 @@
+header {
+    background-color: #275fa0;
+    color: cornsilk;
+    text-align: center;
+    padding-top: 30px;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0px;
+    left: 0;
+}
+
+main {
+    text-align: center;
+    background-color: darkkhaki;
+    height: 45vh;
+    padding-top: 500px;
+}
+
+footer {
+    background-color: #88c1d0;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    text-align: center;
+    padding-bottom: 30px;
+}
